@@ -5,8 +5,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='errorify',
-    version='0.0.0',
-    description='A Python package for structured error handling and formatting.',
+    version='0.0.1',
+    description='A simple Python package for error formatting.',
     author='Bipu Mirza',
     author_email='bipumirja@gmail.com',
     packages=find_packages(),
